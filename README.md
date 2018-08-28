@@ -1,2 +1,2 @@
 # springboot-provider
-provider 
+provider about : dubbo/activemq/rabbitmq 
