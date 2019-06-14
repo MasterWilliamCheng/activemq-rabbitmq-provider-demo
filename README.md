@@ -1,3 +1,3 @@
 # springboot-provider
 provider about : dubbo/activemq/rabbitmq 
-Ê¾Àı£ºdubbo-activemq-rabbitmq ·şÎñÉú²úÕß
+ç¤ºä¾‹ï¼šdubbo-activemq-rabbitmq æœåŠ¡ç”Ÿäº§è€…
